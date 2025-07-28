@@ -15,7 +15,7 @@ node bot.js <host> <port> <username>
 Exemple :
 
 ```bash
-node bot.js survie-mn3F.aternos.me 53623 MonBot
+node bot.js example.com 25565 BotAFK
 ```
 
 ## Installation
@@ -58,3 +58,8 @@ python3 launch_bot.py
 * Node.js doit être dans le PATH.
 * Python n’est utile que pour lancer via `launch_bot.py`.
 * Le bot se reconnecte automatiquement en cas de déconnexion.
+
+```
+
+N’hésite pas si tu veux que je t’aide à améliorer ou à compléter !
+```
